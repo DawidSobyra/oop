@@ -1,0 +1,13 @@
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LilleShop.exe
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LilleShop.deps.json
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LilleShop.runtimeconfig.json
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LilleShop.runtimeconfig.dev.json
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LilleShop.dll
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\LilleShop.pdb
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LilleShop.csprojAssemblyReference.cache
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LilleShop.AssemblyInfoInputs.cache
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LilleShop.AssemblyInfo.cs
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LilleShop.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LilleShop.dll
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LilleShop.pdb
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\LilleShop.genruntimeconfig.cache

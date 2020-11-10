@@ -1,0 +1,12 @@
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\bin\Debug\netcoreapp3.1\ConsoleAppParts.exe
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\bin\Debug\netcoreapp3.1\ConsoleAppParts.deps.json
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\bin\Debug\netcoreapp3.1\ConsoleAppParts.runtimeconfig.json
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\bin\Debug\netcoreapp3.1\ConsoleAppParts.runtimeconfig.dev.json
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\bin\Debug\netcoreapp3.1\ConsoleAppParts.dll
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\bin\Debug\netcoreapp3.1\ConsoleAppParts.pdb
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\obj\Debug\netcoreapp3.1\ConsoleAppParts.AssemblyInfoInputs.cache
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\obj\Debug\netcoreapp3.1\ConsoleAppParts.AssemblyInfo.cs
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\obj\Debug\netcoreapp3.1\ConsoleAppParts.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\obj\Debug\netcoreapp3.1\ConsoleAppParts.dll
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\obj\Debug\netcoreapp3.1\ConsoleAppParts.pdb
+C:\Users\HFGF\Source\Repos\H2\ConsoleApp1\ConsoleAppParts\obj\Debug\netcoreapp3.1\ConsoleAppParts.genruntimeconfig.cache
